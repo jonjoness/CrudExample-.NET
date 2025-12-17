@@ -1,0 +1,17 @@
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\bin\Debug\net10.0\Repositories.deps.json
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\bin\Debug\net10.0\Repositories.dll
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\bin\Debug\net10.0\Repositories.pdb
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\bin\Debug\net10.0\Entities.dll
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\bin\Debug\net10.0\RepositoryContracts.dll
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\bin\Debug\net10.0\Entities.pdb
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\bin\Debug\net10.0\RepositoryContracts.pdb
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\obj\Debug\net10.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\obj\Debug\net10.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\obj\Debug\net10.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\obj\Debug\net10.0\Repositories.AssemblyInfo.cs
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\obj\Debug\net10.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\obj\Debug\net10.0\Reposito.787EC4B2.Up2Date
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\obj\Debug\net10.0\Repositories.dll
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\obj\Debug\net10.0\refint\Repositories.dll
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\obj\Debug\net10.0\Repositories.pdb
+C:\Users\ShivamSingh\source\repos\CrudExample\Repositoryy\obj\Debug\net10.0\ref\Repositories.dll

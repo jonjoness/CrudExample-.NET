@@ -1,0 +1,15 @@
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\bin\Debug\net10.0\ServiceContracts.deps.json
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\bin\Debug\net10.0\ServiceContracts.dll
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\bin\Debug\net10.0\ServiceContracts.pdb
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\bin\Debug\net10.0\Entities.dll
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\bin\Debug\net10.0\Entities.pdb
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\obj\Debug\net10.0\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\obj\Debug\net10.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\obj\Debug\net10.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\obj\Debug\net10.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\obj\Debug\net10.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\obj\Debug\net10.0\ServiceC.04662A29.Up2Date
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\obj\Debug\net10.0\ServiceContracts.dll
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\obj\Debug\net10.0\refint\ServiceContracts.dll
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\obj\Debug\net10.0\ServiceContracts.pdb
+C:\Users\ShivamSingh\source\repos\CrudExample\ServiceContracts\obj\Debug\net10.0\ref\ServiceContracts.dll
